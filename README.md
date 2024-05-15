@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm V. VIJAY KUMAR</h1>
 <h3 align="center">A Passionate Full Stack Java Developer....</h3>
-<img align = "right" alt = "coding" width ="400" src = "https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952ymfmdhh7dwnjz27eyjcjzlmgmqpga4dfkdmq61do&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align = "right" alt = "coding" width ="400" src = "https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952292hafnj4h9hf9mt1wtycomxkqo5u69mzs36hf13&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaykumar-77&label=Profile%20views&color=0e75b6&style=flat" alt="vijaykumar-77" /> </p>
 
 <p align="left"> <a href="https://twitter.com/alone_its_me" target="blank"><img src="https://img.shields.io/twitter/follow/alone_its_me?logo=twitter&style=for-the-badge" alt="alone_its_me" /></a> </p>
