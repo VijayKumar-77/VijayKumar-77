@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm V. VIJAY KUMAR</h1>
 <h3 align="center">A Passionate Full Stack Java Developer....</h3>
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+<img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaykumar-77&label=Profile%20views&color=0e75b6&style=flat" alt="vijaykumar-77" /> </p>
 
 <p align="left"> <a href="https://twitter.com/alone_its_me" target="blank"><img src="https://img.shields.io/twitter/follow/alone_its_me?logo=twitter&style=for-the-badge" alt="alone_its_me" /></a> </p>
