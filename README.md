@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Payments Banking Web APP**
 
-- 🌱 I’m currently learning **Frameworks, React, Core JAVA, SQL, SpringBoot, Angular**
+- 🌱 I’m currently learning **Full Stack Java Developer Course**
 
 - 👯 I’m looking to collaborate on **Payments CLI App**
 
