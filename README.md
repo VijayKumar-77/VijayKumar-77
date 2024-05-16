@@ -8,13 +8,13 @@
 <p align="left"> <a href="https://twitter.com/alone_its_me" target="blank"><img src="https://img.shields.io/twitter/follow/alone_its_me?logo=twitter&style=for-the-badge" alt="alone_its_me" /></a> </p>
 
 - 🔭 I’m currently working on
-- **Payments Banking Web APP**
+    **Payments Banking Web APP**
 
 - 🌱 I’m currently learning
-- **Full Stack Java Developer Course**
+    **Full Stack Java Developer Course**
 
 - 👯 I’m looking to collaborate on
-- **Payments CLI App**
+    **Payments CLI App**
 
 - 📫 How to reach me **vijaykumarmetoo@gmail.com**
 
