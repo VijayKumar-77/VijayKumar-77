@@ -42,5 +42,4 @@
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.freepik.com/512/5210/5210800.png" alt="photoshop" width="45" height="45"/></a>  
 <br><br>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaykumar-77&show_icons=true&locale=en&layout=compact" alt="vijaykumar-77"/></p>
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykumar-77&" alt="vijaykumar-77" /></p>
+
