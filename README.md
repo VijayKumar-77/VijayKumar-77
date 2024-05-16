@@ -13,9 +13,6 @@
 - 🌱 I’m currently learning
     **Full Stack Java Developer Course**
 
-- 👯 I’m looking to collaborate on
-    **Payments CLI App**
-
 - 📫 How to reach me **vijaykumarmetoo@gmail.com**
 
 - ⚡ Fun fact **Stay Happy and be Like U**
