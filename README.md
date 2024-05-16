@@ -18,8 +18,8 @@
 
 - 📫 How to reach me **vijaykumarmetoo@gmail.com**
 
-- ⚡ Fun fact **Stay and be Like U**
-- 
+- ⚡ Fun fact **Stay Happy and be Like U**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/vijay kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vijay kumar" height="30" width="40" /></a>
