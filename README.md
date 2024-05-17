@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning
     **Full Stack Java Developer Course**
 
-- 📫 How to reach me **vijaykumarmetoo@gmail.com**
+- 📫 How to reach me **vijaykumar982360@gmail.com**
 
 - ⚡ Fun fact **Stay Happy and be Like U**
   
