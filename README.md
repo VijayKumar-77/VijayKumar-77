@@ -23,7 +23,7 @@
 <a href="https://codepen.io/vijay kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vijay kumar" height="30" width="40" /></a>
 <a href="https://twitter.com/alone_its_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alone_its_me" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vijay kumar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay kumar007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vijay kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vijay kumar" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/vijay kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vijay kumar" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
