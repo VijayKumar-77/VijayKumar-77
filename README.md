@@ -38,7 +38,7 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a> 
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.freepik.com/512/5210/5210800.png" alt="photoshop" width="45" height="45"/></a>  
+<!--  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.freepik.com/512/5210/5210800.png" alt="photoshop" width="45" height="45"/></a>   -->
  
 <!-- mario gif 
 https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif -->
